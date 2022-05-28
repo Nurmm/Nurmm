@@ -33,3 +33,7 @@ Mods folder will have mods such as long arms, monke cosmetics, etc
 Make sure to extract the zip file.
 
 _______________________________________________________________________
+
+V2 (paid): Mangos modmenu V2, Working. xeniths modmenu, Working. pheonix modmenu, Working. pbbv modmenu, Broken. 2nd pbbv modmenu, Broken. eyerock modmenu, Working. eyerock menu dark, Working. Monkewrist modmenu, Broken. Shiba modmenu, Working. Shibex modmenu, working. Lean modmenu, Working. Flaymo modmenu, Working. Zoloz modmenu v5, Working.
+
+Mods folder will have mods such as long arms, monke cosmetics, etc Make sure to extract the zip file.
